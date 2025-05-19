@@ -1,0 +1,7 @@
+Cromosoma,Descripción,Número de genes,Sitios frágiles,Pseudogenes,Sondas,G. asociados a cáncer,Puntos de ruptura,Microdeleciones/Microduplicaciones,Aneuploidía
+1,"Cromosoma más grande del genoma humano",2058,5,324,12,BRCA1,1p36,"1p36 deletion syndrome",Sí
+2,"Involucrado en desarrollo y neurobiología",1293,3,198,9,MYCN,2p23,"MBD5-related syndrome",No
+3,"Contiene genes implicados en cáncer renal",1052,2,156,7,VHL,3p25,"3q29 microdeletion syndrome",Mosaico
+X,"Determina características sexuales femeninas",850,4,232,10,FOXP3,Xq28,"Turner syndrome",Sí
+Y,"Pequeño, con pocos genes funcionales",60,1,45,3,SRY,Yq11,"AZF deletion",Sí
+
